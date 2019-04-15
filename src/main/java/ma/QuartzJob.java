@@ -26,7 +26,11 @@ public class QuartzJob   implements Job {
 	 public void x(){
 		 
 		 System.out.println("changes from y");
-		 
+		 System.out.println("changes from y1");
+		 System.out.println("changes from y2");
+
+		 System.out.println("changes from y2");
+
 	 }
 	 
   
