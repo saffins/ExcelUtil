@@ -52,6 +52,10 @@ public class QuartzJob   implements Job {
  
 		 
 	 }
+	 
+	 public void tester(){
+		 
+	 }
   
 	 
 }
