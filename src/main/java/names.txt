@@ -1,11 +1,9 @@
 my name
-<<<<<<< HEAD
-test name
+ 
 
 
 test3
 test4
 test5
 test6
-=======
->>>>>>> master
+
