@@ -8,5 +8,17 @@ public class Task {
 		System.out.println("sending email for change log next mail will be sent in 10 seconds");
 		
 	}
+	
+	
+	public void performTask(){
+		
+		System.out.println("performtask");
+		
+	}
 
+	public void performtask2(){
+		
+		
+		
+	}
 }

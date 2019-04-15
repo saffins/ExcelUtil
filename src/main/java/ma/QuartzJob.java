@@ -34,6 +34,28 @@ public class QuartzJob   implements Job {
 
 	 }
 	 
+	 public void android(){
+		 
+		 System.out.println("android");
+		 
+	 }
+	 
+	 public void iOS(){
+		 
+		 System.out.println("iOS");
+
+	 }
+	 
+	 public void hybrid(){
+		 
+		 System.out.println("hybrid");
+ 
+		 
+	 }
+	 
+	 public void tester(){
+		 
+	 }
   
 	 
 }
