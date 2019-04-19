@@ -10,21 +10,5 @@ public class Task {
 	}
 	
 	
-	public void performTask(){
-		
-		System.out.println("performtask");
-		
-	}
-
-	public void performtask2(){
-		
-		
-		
-	}
-	
-	
-	public void performTask3(){
-		
-		
-	}
+ 
 }
